@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+}
+.body{
+    background-color: aqua;
+}
+.index{
+    background-color: blueviolet;
+}
+.about{
+    background-color: crimson;
+}
+.services{
+    background-color: brown;
+}
